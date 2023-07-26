@@ -1,3 +1,9 @@
 # WeddingBetting
 
-WeddingBetting Website
+WeddingBetting Website!
+
+- Idea
+- Participants
+- Table
+- Pie Chart
+- 
